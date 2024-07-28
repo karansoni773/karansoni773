@@ -1,3 +1,5 @@
+# Developed by karan
+
 import pyautogui as pg
 import time
 
