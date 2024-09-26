@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [pose Estimation](https://github.com/karansoni773/Pose-Estimation.git)
+- 🔭 I’m currently working on [Portfolio](https://github.com/karansoni773/personal-portfolio.git)
 
 - 🌱 I’m currently learning **Flutter**
 
